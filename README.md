@@ -5,8 +5,9 @@ This repository contains the data, and analysis code used in the bachelor thesis
 
 ## Structure
 
-- `data/`: Raw Trivy scan JSONs and CSV metrics.
+- `artficats_folder/`: Raw Trivy scan JSONs.
 - `plots/`: Visualization of recall, false-negative rate, and scan duration.
+- `projectFolder/`: CSV metrics.
 - `script/`: Python analysis pipeline.
 
 
