@@ -1,0 +1,2 @@
+Scan duration (seconds): 4
+Scan skipped: false
