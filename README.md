@@ -12,5 +12,6 @@ This repository contains the data, and analysis code used in the bachelor thesis
 
 
 ## Citation
-If you use this in academic work, please cite the associated bachelor thesis (HTW Berlin, 2025).
+If you use this in academic work, please cite the associated bachelor thesis "Efficient Integration of Dependency Vulnerability Scanning in DevOps Pipelines"
+submitted to HTW Berlin by Tiphannie Margret Byakuleka, 2025.
 
